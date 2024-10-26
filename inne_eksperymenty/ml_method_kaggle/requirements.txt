@@ -1,0 +1,5 @@
+tensorflow
+resampy==0.1.5
+pydot
+graphviz
+sounddevice
